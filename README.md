@@ -16,3 +16,5 @@ Google Chrome (UI)
 Input any English word.
 Click on the "Check" button.
 Find the result below.
+ - Live Link
+ https://anum23432.github.io/Palindrome.github.io/
